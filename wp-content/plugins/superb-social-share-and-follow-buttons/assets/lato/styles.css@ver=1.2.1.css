@@ -1,0 +1,36 @@
+/* lato regular */
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Regular.eot');
+    src: url('Lato-Regular.eot@') format('embedded-opentype'),
+         url('Lato-Regular.woff2.html') format('woff2'),
+         url('Lato-Regular.woff') format('woff'),
+         url('Lato-Regular.ttf') format('truetype'),
+         url('Lato-Regular.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+/* Lato italic */
+@font-face {
+    font-family: 'Lato';
+    src: url('https://mccs-journalism.gold.ac.uk/wp/blurr/wp-content/plugins/superb-social-share-and-follow-buttons//assets/lato/fonts/lato/Lato-Italic.eot');
+    src: url('https://mccs-journalism.gold.ac.uk/wp/blurr/wp-content/plugins/superb-social-share-and-follow-buttons//assets/lato/fonts/lato/Lato-Italic.eot?') format('embedded-opentype'),
+         url('https://mccs-journalism.gold.ac.uk/wp/blurr/wp-content/plugins/superb-social-share-and-follow-buttons//assets/lato/fonts/lato/Lato-Italic.woff2') format('woff2'),
+         url('https://mccs-journalism.gold.ac.uk/wp/blurr/wp-content/plugins/superb-social-share-and-follow-buttons//assets/lato/fonts/lato/Lato-Italic.woff') format('woff'),
+         url('https://mccs-journalism.gold.ac.uk/wp/blurr/wp-content/plugins/superb-social-share-and-follow-buttons//assets/lato/fonts/lato/Lato-Italic.ttf') format('truetype'),
+         url('https://mccs-journalism.gold.ac.uk/wp/blurr/wp-content/plugins/superb-social-share-and-follow-buttons//assets/lato/fonts/lato/Lato-Italic.svg') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+/* Lato bold */
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Bold.eot');
+    src: url('Lato-Bold.eot@') format('embedded-opentype'),
+         url('Lato-Bold.woff2.html') format('woff2'),
+         url('Lato-Bold.woff') format('woff'),
+         url('Lato-Bold.ttf') format('truetype'),
+         url('Lato-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
